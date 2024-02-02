@@ -4,6 +4,5 @@ node_modules
 /build
 /functions
 .vscode
-.env
 do.yaml
 .dccache
